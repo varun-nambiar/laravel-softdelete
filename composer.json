@@ -1,0 +1,22 @@
+{
+    "name": "varun-nambiar/laravel-softdelete",
+    "description": "Laravel SoftDelete",
+    "type": "package",
+    "require": {
+        "php": ">=7.0.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Varun Nambiar",
+            "email": "varun76nambiar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "ImmensoTech\\LSD\\": "src/"
+        }
+    }
+}
